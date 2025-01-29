@@ -23,7 +23,7 @@ public class Persona{
     }
 
     public String getName(){
-
+        return this.nombre;
     }
 
     public void setName(){
